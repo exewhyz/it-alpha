@@ -1,0 +1,17 @@
+{
+  "name": "it-alpha",
+  "version": "1.0.0",
+  "description": "Run a File using NodeJS - node filename-with-extension",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.0",
+    "slugify": "^1.6.6"
+  }
+}
